@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130787246238",
+    "project_id": "tre2-b361b",
+    "storage_bucket": "tre2-b361b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130787246238:android:8a5fbdb1fa1f7de18f7b8f",
+        "android_client_info": {
+          "package_name": "com.example.trade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLmgcddC8HA5Gwxq4LG9LSQYLMY9bldY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
